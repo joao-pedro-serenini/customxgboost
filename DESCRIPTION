@@ -1,4 +1,4 @@
-Package: xgboost
+Package: customxgboost
 Type: Package
 Title: Customized Extreme Gradient Boosting
 Version: 666.6.4.1
